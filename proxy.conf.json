@@ -1,0 +1,9 @@
+{
+  "/api": {
+    "target": "https://interview.workcentrix.de",
+    "secure": true,
+    "changeOrigin": true,
+    "pathRewrite": { "^/api": "" },
+    "auth": "nj:dEYKp4gRag"
+  }
+}
